@@ -2,7 +2,8 @@
 
 # 👋 Hey, I'm Sai Sradha
 
-💻 *CS Student | Security Enthusiast | Video Editor* 📍 Hyderabad, India | 🎓 3rd Year CSE @ Geethanjali College of Engineering and Technology (2027)
+💻 *CS Student | Security Enthusiast | Video Editor* 📍 Hyderabad, India
+🎓 3rd Year CSE @ Geethanjali College of Engineering and Technology (2027)
 
 ---
 
@@ -16,7 +17,8 @@
 
 ## 🛠️ Tech Playground  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,mongodb,mysql,html,css,git,github,ae,pr,ps,aws,firebase,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,mongodb,
+    mysql,html,css,git,github,ae,pr,ps,aws,firebase,bash" />
 </p>
 
 ---
