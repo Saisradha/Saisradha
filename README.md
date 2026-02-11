@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=Johera%20|%20Sai%20Sradha%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=%20Sai%20Sradha%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hey, I'm Sai Sradha
 
