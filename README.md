@@ -12,6 +12,7 @@
 🔹 Developed **APKSecure**, a security toolkit for Android package analysis  
 🔹 Passionate about **Competitive Programming** and Video Production  
 🔹 Creative lead for my college's **Editing Club** 🎬  
+🔹 Devoloped **JOHERA** , a fashion and lifestyle brand blending Indian cultural narratives with modern streetwear aesthetics.
 
 ---
 
