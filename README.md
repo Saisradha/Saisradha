@@ -20,11 +20,11 @@
 
 <br>
 
-🎓 3rd Year CSE @ GCET (2027)  
+🎓 4th Year CSE @ GCET (2027)  
 
 👩‍💻 Creative Lead @ Editing Club  
 
-🚀 Builder of BugBridge | APKSecure | JOHERA  
+🚀 Builder of BugBridge | APKSecure | JOHERA | AgriSense | AutoGenesis
 
 <br>
 
