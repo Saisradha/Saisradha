@@ -222,17 +222,6 @@ Preparing for top product companies with focus on:
 * 🌐 **Portfolio:** https://sradha-portfolio.vercel.app/
 * 💻 **GitHub:** https://github.com/Saisradha
 
----
-
-# 💭 Philosophy
-
-> *"Technology should solve real problems, not just demonstrate ideas."*
-
-> *"Every project is an opportunity to learn, innovate, and create impact."*
-
----
-
-<h3 align="center">⭐ Thanks for visiting!</h3>
 
 <p align="center">
 If you like my work, consider giving a ⭐ to the repositories you find interesting.
