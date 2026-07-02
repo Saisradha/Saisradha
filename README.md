@@ -202,17 +202,42 @@ Preparing for top product companies with focus on:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saisradha&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisradha&layout=compact&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Saisradha&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=1800"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisradha&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&count_private=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saisradha&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=Saisradha&theme=tokyonight&hide_border=true"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saisradha&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saisradha&theme=tokyonight"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saisradha&theme=tokyonight"
+    width="49%"
+  />
+</p>
 ---
 
 # 🌐 Connect With Me
