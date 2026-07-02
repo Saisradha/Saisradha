@@ -222,22 +222,7 @@ Preparing for top product companies with focus on:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saisradha&theme=tokyonight"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saisradha&theme=tokyonight"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saisradha&theme=tokyonight"
-    width="49%"
-  />
-</p>
 ---
 
 # 🌐 Connect With Me
