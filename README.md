@@ -207,12 +207,12 @@ Preparing for top product companies with focus on:
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Saisradha&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Saisradha&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=1"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisradha&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisradha&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1"
   />
 </p>
 
@@ -221,8 +221,6 @@ Preparing for top product companies with focus on:
     src="https://streak-stats.demolab.com?user=Saisradha&theme=tokyonight&hide_border=true"
   />
 </p>
-
-
 ---
 
 # 🌐 Connect With Me
