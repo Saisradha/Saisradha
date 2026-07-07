@@ -119,18 +119,17 @@ Personal developer portfolio
 ## 📊 STATS DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saisradha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saisradha&show_icons=true&theme=tokyonight" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saisradha&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=saisradha&theme=tokyonight" />
 </p>
 
 
 <br>
-
 ---
 
 ## 🌐 CONNECT
