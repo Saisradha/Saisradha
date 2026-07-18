@@ -136,8 +136,9 @@ Personal developer portfolio
 
 - 💼 LinkedIn — https://linkedin.com/in/saisradha
 - 📧 Email — saisradha888@gmail.com
-- 🌍 Portfolio — https://sradha-portfolio.vercel.app
+- 🌍 Portfolio — Software : https://sradha-portfolio.vercel.app , Editing - https://saisradha.vercel.app/
 - 💻 GitHub — https://github.com/Saisradha
+
 
 
 <br>
